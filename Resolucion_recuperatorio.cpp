@@ -65,7 +65,8 @@ int main()
     system("pause");
 
 }
-    cout<<"Hola Git!!"<<endl;
+    cout<<"probando git\n";
+    //cout<<"Hola Git!!"<<endl;
     return 0;
 }
 
